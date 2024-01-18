@@ -36,7 +36,7 @@ class CardNews extends HTMLElement {
         cardRight.setAttribute('class', 'card-right')
 
         const newsImage = document.createElement('img')
-        newsImage.src = this.getAttribute('photo') || "/assets/img/default-image.jpg"
+        newsImage.src = this.getAttribute('photo') || "assets/img/default-image.jpg"
         cardRight.appendChild(newsImage)
 
         componentRoot.appendChild(cardLeft)
