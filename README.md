@@ -13,7 +13,7 @@ JavaScript para criar uma SHADOW DOM, conferindo um formato de blog de notícias
 ## 🤳 Demonstração:
 - Você pode clicar no link abaixo:
 
-  [WebComponents]()
+  [WebComponents](https://ihaunt.github.io/Web-Components-no-Front-end/)
 
 ## 👩🏻‍💻 Imagem do projeto:
 
