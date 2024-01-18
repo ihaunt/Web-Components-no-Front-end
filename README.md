@@ -1,7 +1,7 @@
 # Web-Components-no-Front-end
 
-<<<<<<< HEAD
-Treinamento em Web Components para HTML e CSS, no qual preservei a estrutura original em HTML/CSS e introduzi dinamicamente elementos em JavaScript para criar uma SHADOW DOM, conferindo um formato de blog de notícias à interface.
+Treinamento em Web Components para HTML e CSS, no qual preservei a estrutura original em HTML/CSS e introduzi dinamicamente elementos em 
+JavaScript para criar uma SHADOW DOM, conferindo um formato de blog de notícias à interface.
 
 
 ## 📱 Funcionalidades: 
