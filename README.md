@@ -29,6 +29,3 @@ Treinamento em Web Components para HTML e CSS, no qual preservei a estrutura ori
 - HTML
 - Java Script
 
-=======
-Dinamic DOM 
->>>>>>> 9124a21411827aefd115435aadaf67cd923530c4
